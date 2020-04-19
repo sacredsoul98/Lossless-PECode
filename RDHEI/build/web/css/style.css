@@ -1,0 +1,177 @@
+@charset "utf-8";
+/* CSS Document */
+
+.head
+{
+    background-color:#E0F8F7;
+    height:150px;	
+}
+.divCenter
+{
+    background-color:#09F;
+    height:400px;	
+}
+.footerc
+{
+
+    background-color:#060	;
+    height:250px;
+    width:auto;	
+}
+
+
+.HeadingC
+{
+    text-align: left;
+    margin-left: 100px;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    padding:100px 100px 51px 100px;
+    font-size: 46px;
+    color: black;
+    font-style: oblique;
+    line-height: 0ex;
+    text-shadow: 5px 6px 10px;
+    text-transform: capitalize;
+
+}
+.HeadingCc
+{
+    float:right;
+    text-align: left;
+    margin-left: 0px;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    padding:.5% 0 10px 0;
+    font-size: 32px;
+    color: black;
+    font-style: oblique;
+    line-height: 0ex;
+    text-shadow: 5px 6px 10px;
+    text-transform: capitalize;
+
+}
+.HeadingCcc
+{
+    float:left;
+    text-align: left;
+    margin-left: 0px;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    padding:.5% 0 10px 5%;
+    font-size: 56px;
+    color: black;
+    font-style: oblique;
+    line-height: 0ex;
+    text-shadow: 5px 6px 10px;
+    text-transform: capitalize;
+
+}
+.divcenterSub
+{
+    text-align: right;
+    margin-left: 100px;
+
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    padding:150px 100px 100px 100px;
+    font-size: 88px;
+    color: black;
+    font-style: oblique;
+    line-height: 0ex;
+
+    text-shadow: 5px 6px 10px;
+    text-transform: capitalize;
+
+}
+.c_barleft
+{
+    position:absolute;
+    width:15%;
+    color:#999;
+    background-color:black;
+    height:95%;
+}
+.c_center
+{
+    margin-left:15.1%	;
+    position:absolute;
+    width:68%;
+    color:#999;
+    background-color:black;
+    height:95%;
+}
+.c_barright
+{
+    margin-left:83.2%;
+    position:absolute;
+    width:15.7%;
+    color:#999;
+    background-color:black;
+    height:95%;
+}
+.cleft_content
+{
+    padding-bottom: 1px;
+    padding-left: 11px;
+    padding-right: 11px;
+    padding-top: 2px;
+    margin-bottom: 1px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 2px;
+}
+.cfooter
+{
+    margin-top:52%;
+    background-color:black;
+    height:auto;	
+    text-align:center;
+
+}
+.wall
+{
+    margin:10px;
+    padding:10px;
+    background-color:black;
+    color:black;
+
+}
+.wallpost
+{
+    margin:10px;
+    padding:10px;
+    background-color:#F6D8CE;
+    color: black;        
+    height:30%;
+
+}
+.wallpost2
+{
+    margin:10px;
+    padding:10px;
+    background-color:#F6D8CE;
+    color: black;        
+    height:70%;        
+
+}
+.hf
+{
+    text-decoration:none;font-size:14px;font-style:italic	;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: oblique;
+    line-height: 0ex;
+    text-shadow: 1px 3px 8px;
+    text-transform: capitalize;
+    color: black;
+
+}
+.hhf
+{
+    text-decoration:none;font-size:14px;font-style:italic	;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: oblique;
+    font-size:25px;
+    line-height: 0ex;
+    text-shadow: 5px 6px 5px;
+    text-transform: capitalize;
+
+    color: black;
+
+}
